@@ -1,4 +1,4 @@
-Extending JavaFX bases components
+Extending JavaFX based components
 =================================
 
 
