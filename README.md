@@ -2,4 +2,4 @@ Extending JavaFX based components
 =================================
 
 
-[http://www.devlabs.ninja/article/fxml-markup-inheritance-javafx](http://www.devlabs.ninja/article/fxml-markup-inheritance-javafx)
+[https://www.devlabs.ninja/fxml-markup-inheritance-javafx/](https://www.devlabs.ninja/fxml-markup-inheritance-javafx/)
